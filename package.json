@@ -1,0 +1,10 @@
+{
+  "name": "framework-arduinoststm32-opencm",
+  "version": "1.0.0",
+  "description": "Custom STM32 Arduino Core with OpenCM904 support",
+  "keywords": ["framework", "arduino", "stm32", "opencm", "robotis"],
+  "license": "LGPL-2.1",
+  "repository": {
+    "url": "https://github.com/PrivateHudson1/platformio-opencm-core.git"
+  }
+}
